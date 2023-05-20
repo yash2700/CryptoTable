@@ -1,0 +1,28 @@
+.name-flex{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+table{
+    font-size: 1.2rem;
+    color: #fff;
+    border-collapse: collapse;
+    width: 100%;
+}
+tr{
+    border-bottom: 3px solid #585858;
+    padding: 1rem 2rem;
+}
+td{
+    width: 200px;
+    padding: 1rem;
+}
+img{
+    width: 35px;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
